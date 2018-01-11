@@ -27,8 +27,10 @@ curl -X POST \
 ```
 
 #### Response
-Status: 201
-{}
+```
+  Status: 201
+  {}
+ ```
 
 
 ## Getting a healthy node for a service
